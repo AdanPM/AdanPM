@@ -1,8 +1,9 @@
-## Hello there! 👋
+# Hello there! 👋
+## It's me Adan Preciado
 
-### Adan Preciado
-📫 How to reach me:
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/adanpm )
+###📫 How to reach me: 
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) AdanPM](www.linkedin.com/in/adanpm )
 &nbsp;
 
 
