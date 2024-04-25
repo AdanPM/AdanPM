@@ -5,7 +5,7 @@ Estudiante Lic. en Informática
 
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) AdanPM]( www.linkedin.com/in/adanpm )
+[LinkedIn](https://www.linkedin.com/in/adanpm/)
 &nbsp;
 
 <!--
