@@ -3,11 +3,10 @@
 Estudiante Lic. en Informática
 - UABC, FCA
 
-### 📫 How to reach me: 
+## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) AdanPM](www.linkedin.com/in/adanpm )
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) AdanPM]( www.linkedin.com/in/adanpm )
 &nbsp;
-
 
 <!--
 **AdanPM/AdanPM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
