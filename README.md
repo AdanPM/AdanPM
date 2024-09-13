@@ -1,6 +1,6 @@
 # Hello there! 👋
 ## It's me Adan Preciado
-Estudiante Lic. en Informática
+Lic. en Informática
 - UABC, FCA
 
 ## 📫 How to reach me: 
